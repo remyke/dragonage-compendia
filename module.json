@@ -7,7 +7,7 @@
     "minimumCoreVersion": "0.9.0",
     "compatibleCoreVersion":"0.9.269",
     "download": "https://github.com/remyke/dragonage-compendia/archive/refs/tags/1.0.3_pre.zip",
-    "manifest": "https://raw.githubusercontent.com/remyke/dragonage-compendia/remyke_fixicons/module.json",
+    "manifest": "https://raw.githubusercontent.com/remyke/dragonage-compendia/1.0.3_pre/module.json",
     "dependencies": [
         {
           "name": "compendium-folders",
