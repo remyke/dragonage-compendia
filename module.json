@@ -24,15 +24,14 @@
   "relationships": {
     "systems": [
       {
-        "name": "age-system",
+        "id": "age-system",
         "type": "system"
       }
     ],
     "requires": [
       {
-        "name": "compendium-folders",
-        "type": "module",
-        "manifest": "https://github.com/earlSt1/vtt-compendium-folders/blob/master/module.json"
+        "id": "compendium-folders",
+        "type": "module"
       }
     ]
   },
